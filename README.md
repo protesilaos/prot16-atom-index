@@ -1,4 +1,4 @@
-# Index of the Prot16 theme for the Atom editor
+# Index of the Prot16 themes for the Atom editor
 
 All Prot16 themes were originally developed for the Atom text editor. Each theme has two repositories on GitHub, for its light and dark variants, as well as the corresponding listings on the Atom website.
 
