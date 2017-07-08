@@ -45,11 +45,11 @@ $ apm install alto-dark-syntax
 
 for scheme in $(cat $HOME/prot16/utils/data/prot16-items.txt)
 do
-    echo "
-    <ul>
-        <li>$scheme light at <a href="https://atom.io/themes/$scheme-syntax">Atom</a> directory.</li>
-        <li>$scheme light <a href="https://github.com/protesilaos/$scheme-light-syntax">GitHub</a> repository.</li>
-        <li>$scheme <em>dark</em> at <a href="https://atom.io/themes/$scheme-dark-syntax">Atom</a> directory.</li>
-        <li>$scheme <em>dark</em> <a href="https://github.com/protesilaos/$scheme-dark-syntax">GitHub</a> repository.</li>
-    </ul>" >> $HOME/prot16-atom-index/README.md
+echo "
+<ul>
+    <li>$scheme light at <a href="https://atom.io/themes/$scheme-syntax">Atom</a> directory.</li>
+    <li>$scheme light <a href="https://github.com/protesilaos/$scheme-light-syntax">GitHub</a> repository.</li>
+    <li>$scheme <em>dark</em> at <a href="https://atom.io/themes/$scheme-dark-syntax">Atom</a> directory.</li>
+    <li>$scheme <em>dark</em> <a href="https://github.com/protesilaos/$scheme-dark-syntax">GitHub</a> repository.</li>
+</ul>" >> $HOME/prot16-atom-index/README.md
 done
