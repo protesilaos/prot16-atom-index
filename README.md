@@ -49,6 +49,13 @@ $ apm install alto-dark-syntax
 </ul>
 
 <ul>
+    <li>camo light at <a href=https://atom.io/themes/camo-syntax>Atom</a> directory.</li>
+    <li>camo light <a href=https://github.com/protesilaos/camo-light-syntax>GitHub</a> repository.</li>
+    <li>camo <em>dark</em> at <a href=https://atom.io/themes/camo-dark-syntax>Atom</a> directory.</li>
+    <li>camo <em>dark</em> <a href=https://github.com/protesilaos/camo-dark-syntax>GitHub</a> repository.</li>
+</ul>
+
+<ul>
     <li>caprice light at <a href=https://atom.io/themes/caprice-syntax>Atom</a> directory.</li>
     <li>caprice light <a href=https://github.com/protesilaos/caprice-light-syntax>GitHub</a> repository.</li>
     <li>caprice <em>dark</em> at <a href=https://atom.io/themes/caprice-dark-syntax>Atom</a> directory.</li>
@@ -84,6 +91,13 @@ $ apm install alto-dark-syntax
 </ul>
 
 <ul>
+    <li>fortuna light at <a href=https://atom.io/themes/fortuna-syntax>Atom</a> directory.</li>
+    <li>fortuna light <a href=https://github.com/protesilaos/fortuna-light-syntax>GitHub</a> repository.</li>
+    <li>fortuna <em>dark</em> at <a href=https://atom.io/themes/fortuna-dark-syntax>Atom</a> directory.</li>
+    <li>fortuna <em>dark</em> <a href=https://github.com/protesilaos/fortuna-dark-syntax>GitHub</a> repository.</li>
+</ul>
+
+<ul>
     <li>gaia light at <a href=https://atom.io/themes/gaia-syntax>Atom</a> directory.</li>
     <li>gaia light <a href=https://github.com/protesilaos/gaia-light-syntax>GitHub</a> repository.</li>
     <li>gaia <em>dark</em> at <a href=https://atom.io/themes/gaia-dark-syntax>Atom</a> directory.</li>
@@ -95,6 +109,13 @@ $ apm install alto-dark-syntax
     <li>hinterland light <a href=https://github.com/protesilaos/hinterland-light-syntax>GitHub</a> repository.</li>
     <li>hinterland <em>dark</em> at <a href=https://atom.io/themes/hinterland-dark-syntax>Atom</a> directory.</li>
     <li>hinterland <em>dark</em> <a href=https://github.com/protesilaos/hinterland-dark-syntax>GitHub</a> repository.</li>
+</ul>
+
+<ul>
+    <li>hyperion light at <a href=https://atom.io/themes/hyperion-syntax>Atom</a> directory.</li>
+    <li>hyperion light <a href=https://github.com/protesilaos/hyperion-light-syntax>GitHub</a> repository.</li>
+    <li>hyperion <em>dark</em> at <a href=https://atom.io/themes/hyperion-dark-syntax>Atom</a> directory.</li>
+    <li>hyperion <em>dark</em> <a href=https://github.com/protesilaos/hyperion-dark-syntax>GitHub</a> repository.</li>
 </ul>
 
 <ul>
