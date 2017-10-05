@@ -140,6 +140,13 @@ $ apm install alto-dark-syntax
 </ul>
 
 <ul>
+    <li>noir light at <a href=https://atom.io/themes/noir-syntax>Atom</a> directory.</li>
+    <li>noir light <a href=https://github.com/protesilaos/noir-light-syntax>GitHub</a> repository.</li>
+    <li>noir <em>dark</em> at <a href=https://atom.io/themes/noir-dark-syntax>Atom</a> directory.</li>
+    <li>noir <em>dark</em> <a href=https://github.com/protesilaos/noir-dark-syntax>GitHub</a> repository.</li>
+</ul>
+
+<ul>
     <li>ocarina light at <a href=https://atom.io/themes/ocarina-syntax>Atom</a> directory.</li>
     <li>ocarina light <a href=https://github.com/protesilaos/ocarina-light-syntax>GitHub</a> repository.</li>
     <li>ocarina <em>dark</em> at <a href=https://atom.io/themes/ocarina-dark-syntax>Atom</a> directory.</li>
